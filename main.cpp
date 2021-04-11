@@ -2,7 +2,6 @@
 The program calculates the average test score using user's input scores for 5
 tests. 
 
-@author Vlada Foulke
 @version 10/4/2020
 *******************************************************************************/
 
